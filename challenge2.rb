@@ -12,5 +12,5 @@ teachers.each do |teacher|
 end
 
 
-# The purpose of this method is to take every letter in each element and make it lowercase
-# The final solution from this method is mrs. smith mr. ellis mrs. king mrs. tillis
+# The purpose of this method is to take every letter of the array and make it lowercase
+# The final solution from this method is "mrs. smith" "mr. ellis" "mrs. king" "mrs. tillis"
