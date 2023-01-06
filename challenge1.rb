@@ -12,4 +12,4 @@ names.each do |name|
 end
 
 # The goal for this method is to delete the array of strings and return only the names that are exactly 4 characters in length
-# The final solution from this method is Zack, Bill
+# The final solution from this method is "Zack" "Bill"
